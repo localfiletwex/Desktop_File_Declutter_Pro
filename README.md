@@ -24,4 +24,4 @@ You can run this program directly using Python:
 1. Clone this repository to your machine.
 2. Open your terminal inside the directory and run:
 ```bash
-python declutter_ultimate_pro.py
+python declutter.py
